@@ -117,5 +117,6 @@ The project consists of the following steps:
 - Planning and managing sprints in a data project workflow
 
 **🛠️ Tools & Concepts**
+
 Agile methodology
   
